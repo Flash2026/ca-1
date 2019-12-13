@@ -32,12 +32,17 @@
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto">
             <h2 class="title">About Campus Ambassador Program</h2>
-            <h5 class="description">Consortium's Campus Ambassador Program is a campus connect program that aims to form a network of like-minded students across India. The program facilitates and nurtures future leaders of the country and contributes to their career growth. We want to empower and groom select students across India who will serve as  experts in their respective institutions.</h5>
+            <h5 class="description">
+<span>The Entrepreneurship Cell is a non-profit organization run by the students of VNIT that aims at manifesting the latent entrepreneurial spirit of young students from all corners of India. Keeping this motto in mind, E-Cell, VNIT is reaching out to all the colleges across India to promote entrepreneurial outlook among students by engaging them with different activities of the E-Cell, VNIT.</span><br><br>
+
+The selected Campus Ambassador, in his/her entire tenure, would represent E-Cell, VNIT in their college and would be equipped with tools that would be aimed to bring about his personal development as well as advancement of the entrepreneurial eco-system in his college.<br><br>
+
+This year, the program has been redesigned for the Ambassadors' skill development. The tasks have been meticulously planned keeping their skill development as the first priority. The CAs will get to access free learning resources from CA portal, organise workshops in their college, get foreign admission help and recommendation letters, connect with experienced professionals from the corporate world, and many other incentives. Selected CAs will get a chance to directly work with the E-Cell, VNIT team closely.</h5>
           </div>
         </div>
-        <div style="margin-top:80px"></div>
+    <!--    <div style="margin-top:80px"></div>
 
-        <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+        <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div --!>
 
 <div style="margin-top:80px"></div>
         <h2 class="title">Incentives</h2>
@@ -72,6 +77,57 @@
             </div>
         </div>
         </div>
+
+
+
+<div style="margin-top:80px"></div>
+        <h2 class="title">REASONS TO BECOME CAMPUS AMBASSADOR</h2>
+        <div class="features">
+          <div class="row">
+            <div class="col-md-3">
+              <div class="info">
+                <div class="icon ">
+                  <i class="material-icons">featured_play_list</i>
+                </div>
+                <h4 class="info-title">Organise Events</h4>
+                <p>Get a chance to conduct entrepreneurship related events in your college in collaboration with E-Cell VNIT</p>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="info">
+                <div class="icon">
+                  <i class="material-icons">airplay</i>
+                </div>
+                <h4 class="info-title">Stay Updated</h4>
+                <p>Stay updated on the recent trends of Entrepreneurship & Business world and get insights in disrupting technologies from VNIT implemented in StartUps</p>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="info">
+                <div class="icon">
+                  <i class="material-icons">highlight</i>
+                </div>
+                <h4 class="info-title">Skill Development</h4>
+                <p>Improve your communication and management skills by being a part of the largest student network in the nation</p>
+              </div>
+            </div>
+
+ <div class="col-md-3">
+              <div class="info">
+                <div class="icon">
+                  <i class="material-icons">highlight</i>
+                </div>
+                <h4 class="info-title">Exclusive Content</h4>
+                <p>E-Cell VNIT is offering Exclusive Video lectures delivered by our Guest Speakers especially recorded for our CAs</p>
+              </div>
+            </div>
+ 
+        </div>
+        </div>
+
+ 
+
+
       <div class="section section-contacts" id="signin">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto">
